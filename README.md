@@ -1,6 +1,6 @@
 # Go-Rest-API-Product Using Gin
 
-## REST API for Product entity with feature:
+## REST API for Product with feature:
 
 - Create, Read, Update, Delete
 - Filtering
